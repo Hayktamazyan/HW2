@@ -34,7 +34,7 @@ class Studentinfo:
 
 def main():
     st1 = Studentinfo("789456", "Hayk", "Tamazyan", "Male", "15/01/1999", 92, 80, 72, 85)
-    st2 = Studentinfo("858797", "Ashot", "Erkat", "Female", "01/01/2018", 84, 99, 92, 89)
+    st2 = Studentinfo("858797", "Ashot", "Erkat", "Male", "01/01/2018", 84, 99, 92, 89)
 
     st1.getPersonalInfo()
     st2.getPersonalInfo()
